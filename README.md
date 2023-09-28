@@ -27,24 +27,13 @@ Neste repositório, você encontrará soluções e modelos em Julia desenvolvido
 
 ## Resultados 📈:
 
-## Dependecies 🚚:
-
-The project dependencies are described in  ```./dependencies/requirements.``` within the repository. In summary, heres what you're gonna need in order to run the project:
-
-- [``````](http:link.com).
-- 
-
-For installing dependencies more quickly, you can run the following command at terminal, inside the clonned repository:
-
-	sudo apt update && sudo apt install python3 python3-pip
-
-Make sure you have all Dependencies before running the project.
-
 ## Como executar 🏃:
 
 Primeiro, clone este repositório. Depois disso, você pode executar o notebook dentro do ambiente do [Google Colab](https://colab.google/) ou simplesmente executar um arquivo _.ipynb_ com o comando:
 
     jupyter notebook batch_sizing_problem.ipynb
+
+Não se esqueça de trocar o kernel padrão de python para julia.
 
 ## Processo de Desenvolvimento ⚙️:
 
@@ -54,9 +43,13 @@ Como avaliação os desenvolvedores tiveram do dia 27/09/2023 até o meio dia do
 
 - [Google Colab](https://colab.google/). 
 - [Jupyter Notebook](https://jupyter.org/).
-- [Julia]().
+- [Julia](https://julialang.org/).
 - [VScode](https://code.visualstudio.com/).
 	
+Você pode baixar as ferramentas de execução do projeto com o script disponível em ```./project_setup/install_tools.sh```
+
+	sudo apt update && sh ./project_setup/install_tools.sh
+
 ## How to contribute 🫂:
 
 Sinta-se à vontade para criar um novo ramo, fazer um fork do projeto, criar uma nova Issue ou fazer um pull request. Entre em contato conosco para desenvolver neste repositório de experimentos de modelagem.
