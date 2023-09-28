@@ -1,4 +1,4 @@
-<h1 align="center">👨‍🏭 Processes logistic optimization 👨‍🏭</h1>
+<h1 align="center">👨‍🏭 Otimização logística de processos 👨‍🏭</h1>
 
 <div align="center">
 	<a href="link_for_webite">
@@ -50,14 +50,14 @@ Você pode baixar as ferramentas de execução do projeto com o script disponív
 
 	sudo apt update && ./project_setup/install_tools.sh
 
-## How to contribute 🫂:
+## Como constribuir 🫂:
 
 Sinta-se à vontade para criar um novo ramo, fazer um fork do projeto, criar uma nova Issue ou fazer um pull request. Entre em contato conosco para desenvolver neste repositório de experimentos de modelagem.
 
-## Licence 📜:
+## Licensa 📜:
 
 [Apache V2](https://choosealicense.com/licenses/apache-2.0/)
 
-## References 📙:
+## Referências 📙:
 	
 [1] Rafael Mello. Apresentação em Introdução a Otimização Logística de Processos. Universidade Federal da Bahia, Salvador, 2023.
