@@ -1,7 +1,7 @@
 # File:           tsp_solver.jl
 # Last changed:   28/09/2023 16:29
 # Purpose:        solver for classic tsp problem         
-# Authors:        Fernando Antonio Marques Schettini   
+# Authors:        Rafael Mello 
 # Usage: 
 # 	HowToExecute:   julia tsp_solver.jl          
 # Dependencies:
