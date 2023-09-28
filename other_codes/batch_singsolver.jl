@@ -1,3 +1,13 @@
+# File:           batch_singsolver.jl
+# Last changed:   28/09/2023 16:29
+# Purpose:        solver for classic batch sizing problem         
+# Authors:        Fernando Antonio Marques Schettini   
+# Usage: 
+# 	HowToExecute:   julia batch_singsolver.jl          
+# Dependencies:
+#   - JuMP
+#   - Cbc
+
 # PROBLEMA DE DIMENSIONAMENTO DE LOTES ILIMITADO
 # Formulação multicomodidade
 

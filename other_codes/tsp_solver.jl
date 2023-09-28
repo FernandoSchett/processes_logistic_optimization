@@ -1,3 +1,15 @@
+# File:           tsp_solver.jl
+# Last changed:   28/09/2023 16:29
+# Purpose:        solver for classic tsp problem         
+# Authors:        Fernando Antonio Marques Schettini   
+# Usage: 
+# 	HowToExecute:   julia tsp_solver.jl          
+# Dependencies:
+#   - JuMP
+#   - Cbc
+
+
+
 # PROBLEMA DO CAIXEIRO VIAJANTE
 # Formulação de Miller-Tucker-Zemlin
 
