@@ -1,8 +1,6 @@
 # Arquivos gerados pelo Jupyter Notebook
 .ipynb_checkpoints/
 
-# Resultados de execução do Jupyter Notebook (se você não deseja versioná-los)
-*.ipynb
 
 # Arquivos de saída do Julia
 *.jl~
