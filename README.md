@@ -37,7 +37,7 @@ Não se esqueça de trocar o kernel padrão de python para julia.
 
 ## Processo de Desenvolvimento ⚙️:
 
-Como avaliação os desenvolvedores tiveram do dia 27/09/2023 até o meio dia do dia 28/09/2023 para entregar a modelagem do problema do caixeiro viajante multiplo (_mTSP_) e um problema de _batch sizing_ implementado utilizando solvers em Julia. Os notebooks foram desenvolvidos em encontros duradouros durante esse período. 
+Como avaliação os desenvolvedores tiveram do dia 27/09/2023 até o meio dia do dia 28/09/2023 para entregar a modelagem do problema do caixeiro viajante múltiplo (_mTSP_) e um problema de _batch sizing_ implementado utilizando solvers em Julia. Os notebooks foram desenvolvidos em encontros duradouros durante esse período. 
 
 ### Ferramentas utilizadas 🛠️: 
 
@@ -46,9 +46,9 @@ Como avaliação os desenvolvedores tiveram do dia 27/09/2023 até o meio dia do
 - [Julia](https://julialang.org/).
 - [VScode](https://code.visualstudio.com/).
 	
-Você pode baixar as ferramentas de execução do projeto com o script disponível em ```./project_setup/install_tools.sh```
+Você pode baixar as ferramentas de execução do projeto com o script disponível em ```./project_setup/install_tools.sh``` com o comando:
 
-	sudo apt update && sh ./project_setup/install_tools.sh
+	sudo apt update && ./project_setup/install_tools.sh
 
 ## How to contribute 🫂:
 
