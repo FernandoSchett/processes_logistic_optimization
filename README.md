@@ -1,4 +1,4 @@
-<h1 align="center">👨‍🏭 Modeling LP Problems 👨‍🏭</h1>
+<h1 align="center">👨‍🏭 Processes logistic optimization 👨‍🏭</h1>
 
 <div align="center">
 	<a href="link_for_webite">
@@ -7,12 +7,13 @@
 </div>
 
 ## Desenvolvido por 💻:
+
 - [Fernando Schettini](https://linktr.ee/fernandoschett).
 - [João Paulo Bernardino]().
 
 ## Um obrigado especial para 🥰:
-- [Rafael Mello](http://lattes.cnpq.br/4117373032501782), nosso professor no mini curso de introdução a otimização logística da UFBA.
 
+- [Rafael Mello](http://lattes.cnpq.br/4117373032501782), nosso professor no mini curso de introdução a otimização logística da UFBA.
 
 ## Sobre 🤔:
 
@@ -41,7 +42,7 @@ Make sure you have all Dependencies before running the project.
 
 ## Como executar 🏃:
 
-Primeiro, clone este repositório. Depois disso, você pode executar o notebook dentro do ambiente do Google Colab ou simplesmente executar um arquivo de notebook Jupyter com o comando:
+Primeiro, clone este repositório. Depois disso, você pode executar o notebook dentro do ambiente do [Google Colab](https://colab.google/) ou simplesmente executar um arquivo _.ipynb_ com o comando:
 
     jupyter notebook batch_sizing_problem.ipynb
 
@@ -53,6 +54,7 @@ Como avaliação os desenvolvedores tiveram do dia 27/09/2023 até o meio dia do
 
 - [Google Colab](https://colab.google/). 
 - [Jupyter Notebook](https://jupyter.org/).
+- [Julia]().
 - [VScode](https://code.visualstudio.com/).
 	
 ## How to contribute 🫂:
