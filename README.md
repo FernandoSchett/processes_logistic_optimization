@@ -27,7 +27,7 @@ Neste repositório, você encontrará soluções e modelos em Julia desenvolvido
 
 ## Resultados 📈:
 
-## Dependencies 🚚:
+## Dependecies 🚚:
 
 The project dependencies are described in  ```./dependencies/requirements.``` within the repository. In summary, heres what you're gonna need in order to run the project:
 
@@ -67,5 +67,4 @@ Sinta-se à vontade para criar um novo ramo, fazer um fork do projeto, criar uma
 
 ## References 📙:
 	
-[1] <last_author_name>, <first_author_name>. <work_title>. XX/XX/XX.
-
+[1] Rafael Mello. Apresentação em Introdução a Otimização Logística de Processos. Universidade Federal da Bahia, Salvador, 2023.
